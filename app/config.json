@@ -1,0 +1,28 @@
+{
+  "channelInfoList": [
+    {
+      "channel": "official",
+      "alias": "官网",
+      "extraInfo": {
+        "INSTALL_CHANNEL": "1",
+        "UMENG_CHANNEL": "official"
+      }
+    },
+    {
+      "channel": "360_shouji",
+      "alias": "360",
+      "extraInfo": {
+        "INSTALL_CHANNEL": "2",
+        "UMENG_CHANNEL": "360_shouji"
+      }
+    },
+    {
+      "channel": "yingyonbao",
+      "alias": "应用宝",
+      "extraInfo": {
+        "INSTALL_CHANNEL": "4",
+        "UMENG_CHANNEL": "yingyonbao"
+      }
+    }
+  ]
+}
